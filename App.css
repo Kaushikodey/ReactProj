@@ -1,0 +1,5 @@
+.landing {
+  background-image: url('/images/nursery.jpg');
+  background-size: cover;
+  height: 100vh;
+}
